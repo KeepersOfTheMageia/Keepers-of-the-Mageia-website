@@ -3,13 +3,10 @@
 <head>
     <title>Keepers of the Mageia</title>
 </head>
+
 <body>
     <h1>Welcome</h1>
-    <p1> Welcome to the website for Keepers of the Mageia, <p1> 
-    <p>Welcome to the official website.</p>
+    <p1> Welcome to the website for Keepers of the Mageia see the rules here </p1>
 
-    <p>
-        <a href="rules.pdf">Download the Rules</a>
-    </p>
 </body>
 </html>
